@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rancho APP</string>
+    <string name="title">MEU CARRINHO</string>
+    <string name="addTitle">ADICIONAR AO CARRINHO</string>
+    <string name="CartIcon">Carrinho de Compras</string>
+    <string name="itemName">ITEM:</string>
+    <string name="itemQuantity">QUANTIDADE:</string>
+    <string name="itemValue">VALOR (R$):</string>
+    <string name="add_activity">Novo item</string>
+    <string name="update_activity">Alterar item</string>
+    <string name="amout_hint">1 ou 2</string>
+</resources>
